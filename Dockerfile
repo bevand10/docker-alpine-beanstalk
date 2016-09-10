@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.4
 MAINTAINER Matthew Endsley <mendsley@gmail.com>
 
 COPY alpine.patch /root/alpine.patch
